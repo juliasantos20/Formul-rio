@@ -6,16 +6,13 @@ body {
     background-color: #F0F8FF;
     margin: 2% auto;
     width: 60%;
-    
 }
 
 /* Títulos */
-#titulo, #subtitulo {
-    text-align: center;
-     } 
-{
+#titulo, #subtitulo  {
     font-family: sans-serif;
     color: #380B61;
+    text-align: center;
 }
 
 #titulo {
